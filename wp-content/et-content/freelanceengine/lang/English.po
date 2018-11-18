@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: freelanceenginev1.8.6.1\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"MO-Creation-Date: 2018-07-12 07:22:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: JOB <EMAIL@ADDRESS>\n"
+"Language-Team: ENGINETHEMES.COM <enginethemes@enginethemes.com>\n"
+
+msgid "Private message"
+msgstr "پیام‌های خصوصی"
+
+msgid "Private Message"
+msgstr "پیام‌های خصوصی"

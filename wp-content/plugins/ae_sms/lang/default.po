@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ClassfiedEngine v1.6.2\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"POT-Creation-Date: 2018-02-18 17:11+0330\n"
+"PO-Revision-Date: 2018-02-18 17:11+0330\n"
+"Last-Translator: dakachi <david87dang@gmail.com>\n"
+"Language-Team: fars Theme <mln13681@gmail.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ae_sms.php:66
+msgid "Mail Template"
+msgstr ""
+
+#: ae_sms.php:75
+msgid "Mail description here"
+msgstr "توضیحات پیامک اینجا"
+
+#: ae_sms.php:76
+msgid ""
+"Email templates for new message. You can use placeholders to include some "
+"specific content."
+msgstr ""
+
+#: ae_sms.php:77
+msgid "user's details you want to send mail"
+msgstr ""
+
+#: ae_sms.php:78
+msgid "member dashboard url "
+msgstr ""
+
+#: ae_sms.php:79
+msgid "project title, link, details, author"
+msgstr ""
+
+#: ae_sms.php:80
+msgid "activate link is require for user to renew their pass"
+msgstr ""
+
+#: ae_sms.php:81
+msgid " site info, admin email"
+msgstr ""
+
+#: ae_sms.php:82
+msgid "list projects employer send to freelancer when invite him to join"
+msgstr ""
+
+#: ae_sms.php:92
+msgid "Review Payment Notification Mail Template"
+msgstr ""
+
+#: ae_sms.php:95
+msgid "Send to admin when the site has a new payment."
+msgstr ""
+
+#: ae_sms.php:111
+msgid "Review payment notification"
+msgstr ""
+
+#: ae_sms.php:121
+msgid "New Message Mail Template"
+msgstr ""
+
+#: ae_sms.php:124
+msgid "Send to user when he has a new message on workspace."
+msgstr ""
+
+#: ae_sms.php:140
+msgid "Inbox Mail"
+msgstr ""
+
+#: ae_sms.php:150
+msgid "Invite Mail Template"
+msgstr ""
+
+#: ae_sms.php:153
+msgid "Send to user when someone invites him join a project."
+msgstr ""
+
+#: ae_sms.php:169
+msgid "Invite Mail"
+msgstr ""
+
+#: ae_sms.php:179
+msgid "New Bid Mail Template"
+msgstr ""
+
+#: ae_sms.php:182
+msgid "Sent to users when a candidate bid their projects."
+msgstr ""
+
+#: ae_sms.php:199
+msgid "Bid Mail"
+msgstr ""
+
+#: ae_sms.php:209
+msgid "Bid Accepted Mail Template"
+msgstr ""
+
+#: ae_sms.php:212
+msgid "Send to freelancer when his bid was accepted."
+msgstr ""
+
+#: ae_sms.php:228
+msgid "Bid Accepted Mail"
+msgstr ""
+
+#: ae_sms.php:238
+msgid "Project was finished by employer"
+msgstr ""
+
+#: ae_sms.php:241
+msgid "Send to the freelancer when employer finished a project"
+msgstr ""
+
+#: ae_sms.php:257
+msgid "Complete Mail"
+msgstr ""
+
+#: ae_sms.php:267 ae_sms.php:286
+msgid "Notify employer when freelancer review for employer."
+msgstr ""
+
+#: ae_sms.php:270
+msgid "Send to employer when freelancer reviews and rate for him"
+msgstr ""
+
+#: ae_sms.php:296
+msgid "New Project Mail Template"
+msgstr ""
+
+#: ae_sms.php:299
+msgid ""
+"Send to freelancers when a new project which related to his profile category "
+"is posted."
+msgstr ""
+
+#: ae_sms.php:315
+msgid "New Project Mail"
+msgstr ""
+
+#: ae_sms.php:325 ae_sms.php:344
+msgid "Notify freelancer when the payment is sent - Disable manual transfer."
+msgstr ""
+
+#: ae_sms.php:328
+msgid ""
+"Send to freelancer when employer finishes his project, the payment is "
+"successful sent."
+msgstr ""
+
+#: ae_sms.php:383
+msgid "Enter your mobile number"
+msgstr "وارد کردن شماره موبایل شما"
+
+#: ae_sms.php:394
+msgid "Mobile"
+msgstr ""
+
+#~ msgid "SMS"
+#~ msgstr "پیامک"
+
+#~ msgid "sms provider info"
+#~ msgstr "اطلاعات شرکت ارائه دهنده سیستم پیامک"
+
+#~ msgid "username sms"
+#~ msgstr "نام کاربری پنل پیامکی"
+
+#~ msgid "password sms"
+#~ msgstr "کلمه عبور پنل پیامکی"
+
+#~ msgid "number sender"
+#~ msgstr "شماره فرستنده پیامک"
+
+#~ msgid "admin phone number"
+#~ msgstr "تلفن همراه مدیریت"
+
+#~ msgid "sms"
+#~ msgstr "پیامک"
+
+#~ msgid "Integrate the sms to your site"
+#~ msgstr "سامانه پیامک فریلنس انجین"
+
+#~ msgid "Your Mobile Number"
+#~ msgstr "شماره موبایل شما"
+
+#~ msgid "Authentication Sms Template"
+#~ msgstr " قالب پیامک احراز هویت"

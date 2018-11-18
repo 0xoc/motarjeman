@@ -1,0 +1,4 @@
+[25-Oct-2018 21:54:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/noorando/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/noorando/public_html/wp-content/themes/twentyfifteen/404.php on line 10

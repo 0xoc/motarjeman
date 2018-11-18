@@ -1,0 +1,109 @@
+[24-Sep-2018 13:10:07 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 33
+[24-Sep-2018 13:10:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 33
+[24-Sep-2018 13:10:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 33
+[24-Sep-2018 13:12:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 33
+[24-Sep-2018 13:12:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 33
+[26-Sep-2018 09:39:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 36
+[26-Sep-2018 09:41:02 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 35
+[26-Sep-2018 09:41:52 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 35
+[26-Sep-2018 09:42:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 36
+[26-Sep-2018 09:43:02 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 38
+[26-Sep-2018 09:45:05 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 38
+[26-Sep-2018 09:49:03 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 44
+[26-Sep-2018 09:49:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 44
+[26-Sep-2018 13:01:23 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 37
+[26-Sep-2018 13:01:30 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 37
+[26-Sep-2018 13:06:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 37
+[26-Sep-2018 13:07:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/taxonomy-project_category.php on line 37
+[26-Sep-2018 17:16:12 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/filter-projects.php on line 51
+[26-Sep-2018 17:17:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/filter-projects.php on line 52
+[26-Sep-2018 17:59:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/filter-projects.php on line 70
+[08-Oct-2018 13:37:34 UTC] PHP Fatal error:  Can't use function return value in write context in /home/noorando/public_html/wp-content/themes/freelanceengine/list-projects.php on line 141
+[08-Oct-2018 13:37:46 UTC] PHP Fatal error:  Can't use function return value in write context in /home/noorando/public_html/wp-content/themes/freelanceengine/list-projects.php on line 141
+[08-Oct-2018 13:43:21 UTC] PHP Parse error:  syntax error, unexpected ''}'' (T_CONSTANT_ENCAPSED_STRING) in /home/noorando/public_html/wp-content/themes/freelanceengine/list-projects.php on line 155
+[08-Oct-2018 13:43:31 UTC] PHP Parse error:  syntax error, unexpected ''}'' (T_CONSTANT_ENCAPSED_STRING) in /home/noorando/public_html/wp-content/themes/freelanceengine/list-projects.php on line 155
+[08-Oct-2018 14:40:20 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/noorando/public_html/wp-content/themes/freelanceengine/list-projects.php on line 47
+[08-Oct-2018 14:41:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/noorando/public_html/wp-content/themes/freelanceengine/list-projects.php on line 46
+[08-Oct-2018 14:43:13 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/noorando/public_html/wp-content/themes/freelanceengine/list-projects.php on line 57
+[09-Oct-2018 11:17:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/post-project-step3.php on line 180
+[29-Oct-2018 12:04:38 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 22
+[29-Oct-2018 12:17:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 20
+[29-Oct-2018 12:21:16 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 4
+[29-Oct-2018 12:23:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php:6
+Stack trace:
+#0 /home/noorando/public_html/wp-includes/template.php(690): require()
+#1 /home/noorando/public_html/wp-includes/template.php(647): load_template('/home/noorando/...', false)
+#2 /home/noorando/public_html/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /home/noorando/public_html/wp-content/themes/freelanceengine/page-upgrade-account.php(30): get_template_part('template/upgrad...', 'step4')
+#4 /home/noorando/public_html/wp-includes/template-loader.php(74): include('/home/noorando/...')
+#5 /home/noorando/public_html/wp-blog-header.php(19): require_once('/home/noorando/...')
+#6 /home/noorando/public_html/index.php(17): require('/home/noorando/...')
+#7 {main}
+  thrown in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 6
+[29-Oct-2018 12:25:53 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 262144 bytes) in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 4
+[29-Oct-2018 12:25:53 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 23785472 bytes) in Unknown on line 0
+[29-Oct-2018 12:26:13 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 262144 bytes) in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 4
+[29-Oct-2018 12:26:13 UTC] PHP Fatal error:  Allowed memory size of 805306368 bytes exhausted (tried to allocate 23785472 bytes) in Unknown on line 0
+[29-Oct-2018 12:35:37 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 19
+[29-Oct-2018 12:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php:5
+Stack trace:
+#0 /home/noorando/public_html/wp-includes/template.php(690): require()
+#1 /home/noorando/public_html/wp-includes/template.php(647): load_template('/home/noorando/...', false)
+#2 /home/noorando/public_html/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /home/noorando/public_html/wp-content/themes/freelanceengine/page-upgrade-account.php(30): get_template_part('template/upgrad...', 'step4')
+#4 /home/noorando/public_html/wp-includes/template-loader.php(74): include('/home/noorando/...')
+#5 /home/noorando/public_html/wp-blog-header.php(19): require_once('/home/noorando/...')
+#6 /home/noorando/public_html/index.php(17): require('/home/noorando/...')
+#7 {main}
+  thrown in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 5
+[29-Oct-2018 12:54:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php:5
+Stack trace:
+#0 /home/noorando/public_html/wp-includes/template.php(690): require()
+#1 /home/noorando/public_html/wp-includes/template.php(647): load_template('/home/noorando/...', false)
+#2 /home/noorando/public_html/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /home/noorando/public_html/wp-content/themes/freelanceengine/page-upgrade-account.php(30): get_template_part('template/upgrad...', 'step4')
+#4 /home/noorando/public_html/wp-includes/template-loader.php(74): include('/home/noorando/...')
+#5 /home/noorando/public_html/wp-blog-header.php(19): require_once('/home/noorando/...')
+#6 /home/noorando/public_html/index.php(17): require('/home/noorando/...')
+#7 {main}
+  thrown in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 5
+[29-Oct-2018 12:54:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php:6
+Stack trace:
+#0 /home/noorando/public_html/wp-includes/template.php(690): require()
+#1 /home/noorando/public_html/wp-includes/template.php(647): load_template('/home/noorando/...', false)
+#2 /home/noorando/public_html/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /home/noorando/public_html/wp-content/themes/freelanceengine/page-upgrade-account.php(30): get_template_part('template/upgrad...', 'step4')
+#4 /home/noorando/public_html/wp-includes/template-loader.php(74): include('/home/noorando/...')
+#5 /home/noorando/public_html/wp-blog-header.php(19): require_once('/home/noorando/...')
+#6 /home/noorando/public_html/index.php(17): require('/home/noorando/...')
+#7 {main}
+  thrown in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 6
+[29-Oct-2018 13:03:50 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 5
+[29-Oct-2018 13:04:46 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 24
+[29-Oct-2018 13:09:08 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 3
+[29-Oct-2018 13:09:35 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 3
+[29-Oct-2018 13:09:56 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/noorando/public_html/wp-content/themes/freelanceengine/template/upgrade-account-step4.php on line 3
+[01-Nov-2018 06:39:27 UTC] PHP Fatal error:  Cannot redeclare ae_zarinpal_render_button() (previously declared in /home/noorando/public_html/wp-content/plugins/ae_zarinpal/ae_zarinpal.php:99) in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 84
+[01-Nov-2018 06:40:03 UTC] PHP Fatal error:  Cannot redeclare ae_zarinpal_render_button() (previously declared in /home/noorando/public_html/wp-content/plugins/ae_zarinpal/ae_zarinpal.php:99) in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 84
+[01-Nov-2018 08:09:16 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 363
+[01-Nov-2018 08:21:24 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 56
+[01-Nov-2018 08:27:29 UTC] PHP Parse error:  syntax error, unexpected 'تومان' (T_STRING) in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 79
+[01-Nov-2018 08:29:44 UTC] PHP Parse error:  syntax error, unexpected 'تومان' (T_STRING) in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 69
+[01-Nov-2018 08:30:25 UTC] PHP Parse error:  syntax error, unexpected 'تومان' (T_STRING) in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 82
+[01-Nov-2018 08:30:33 UTC] PHP Parse error:  syntax error, unexpected 'تومان' (T_STRING) in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 82
+[01-Nov-2018 08:43:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 49
+[01-Nov-2018 08:44:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 49
+[01-Nov-2018 09:16:29 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 56
+[01-Nov-2018 09:19:06 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/noorando/public_html/wp-content/themes/freelanceengine/template-js/modal-accept-bid.php on line 56
+[01-Nov-2018 10:10:14 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/noorando/public_html/wp-content/themes/freelanceengine/page-profile.php on line 208
+[17-Nov-2018 15:52:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function convert() on null in /home/noorando/public_html/wp-content/themes/freelanceengine/template/author-employer-history-item.php:10
+Stack trace:
+#0 /home/noorando/public_html/wp-includes/template.php(690): require()
+#1 /home/noorando/public_html/wp-includes/template.php(647): load_template('/home/noorando/...', false)
+#2 /home/noorando/public_html/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /home/noorando/public_html/wp-content/themes/freelanceengine/template/author-employer-history.php(78): get_template_part('template/author', 'employer-histor...')
+#4 /home/noorando/public_html/wp-includes/template.php(690): require('/home/noorando/...')
+#5 /home/noorando/public_html/wp-includes/template.php(647): load_template('/home/noorando/...', false)
+#6 /home/noorando/public_html/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#7 /home/noorando/public_html/wp-content/themes/freelanceengine/author.php(221): get_template_par in /home/noorando/public_html/wp-content/themes/freelanceengine/template/author-employer-history-item.php on line 10
+[17-Nov-2018 15:54:14 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/noorando/public_html/wp-content/themes/freelanceengine/template/author-employer-history-item.php on line 49

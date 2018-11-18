@@ -1,0 +1,11 @@
+﻿plugin fre_credit:
+fre_credit\settings.php
+fre_credit\template\fre-credit-deposit-step1.php
+fre_credit\class-credit-users.php
+
+theme freelanceengine:
+freelanceengine\includes\packages.php
+freelanceengine\includes\aecore\assets\js\appengine.js
+freelanceengine\includes\aecore\class-ae-package.php
+
+

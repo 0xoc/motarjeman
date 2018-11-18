@@ -1,0 +1,68 @@
+[08-Jul-2018 06:51:54 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/noorando/public_html/wp-content/plugins/string-locator/string-locator.php:1014
+Stack trace:
+#0 /home/noorando/public_html/wp-includes/class-wp-hook.php(286): String_Locator->editor_save('')
+#1 /home/noorando/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/noorando/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/noorando/public_html/wp-admin/admin.php(156): do_action('admin_init')
+#4 /home/noorando/public_html/wp-admin/tools.php(10): require_once('/home/noorando/...')
+#5 {main}
+  thrown in /home/noorando/public_html/wp-content/plugins/string-locator/string-locator.php on line 1014
+[23-Jul-2018 11:30:46 UTC] PHP Warning:  Illegal string offset 'benficial_owner' in /home/noorando/public_html/wp-content/plugins/fre-credit/class-credit-users.php on line 106
+[07-Aug-2018 10:23:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method SoapFault::getJsonBody() in /home/noorando/public_html/wp-content/plugins/ae_zarinpal/ae_zarinpal.php:178
+Stack trace:
+#0 /home/noorando/public_html/wp-includes/class-wp-hook.php(286): ae_zarinpal_setup_payment(Array, 'ZARINPAL', Object(AE_Order))
+#1 /home/noorando/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters(Array, Array)
+#2 /home/noorando/public_html/wp-content/themes/freelanceengine/includes/aecore/class-ae-payments.php(406): apply_filters('ae_setup_paymen...', Array, 'ZARINPAL', Object(AE_Order))
+#3 /home/noorando/public_html/wp-includes/class-wp-hook.php(286): AE_Payment->setup_payment('')
+#4 /home/noorando/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /home/noorando/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#6 /home/noorando/public_html/wp-admin/admin-ajax.php(100): do_action('wp_ajax_et-setu...')
+#7 {main}
+  thrown in /home/noorando/public_html/wp-content/plugins/ae_zarinpal/ae_zarinpal.php on line 178
+[20-Sep-2018 21:50:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/noorando/public_html/wp-includes/class-wp-locale.php:231
+Stack trace:
+#0 /home/noorando/public_html/wp-includes/class-wp-locale.php(112): WP_Locale->init()
+#1 /home/noorando/public_html/wp-includes/load.php(927): WP_Locale->__construct()
+#2 /home/noorando/public_html/wp-includes/wp-db.php(1569): wp_load_translations_early()
+#3 /home/noorando/public_html/wp-includes/wp-db.php(592): wpdb->db_connect()
+#4 /home/noorando/public_html/wp-includes/load.php(404): wpdb->__construct('', '', '', '')
+#5 /home/noorando/public_html/wp-settings.php(106): require_wp_db()
+#6 /home/noorando/public_html/wp-config.php(89): require_once('/home/noorando/...')
+#7 /home/noorando/public_html/wp-load.php(37): require_once('/home/noorando/...')
+#8 /home/noorando/public_html/wp-admin/admin-ajax.php(22): require_once('/home/noorando/...')
+#9 {main}
+  thrown in /home/noorando/public_html/wp-includes/class-wp-locale.php on line 231
+[22-Sep-2018 10:17:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_bloginfo() in /home/noorando/public_html/wp-includes/class-wp-locale.php:231
+Stack trace:
+#0 /home/noorando/public_html/wp-includes/class-wp-locale.php(112): WP_Locale->init()
+#1 /home/noorando/public_html/wp-includes/load.php(927): WP_Locale->__construct()
+#2 /home/noorando/public_html/wp-includes/wp-db.php(1569): wp_load_translations_early()
+#3 /home/noorando/public_html/wp-includes/wp-db.php(592): wpdb->db_connect()
+#4 /home/noorando/public_html/wp-includes/load.php(404): wpdb->__construct('', '', '', '')
+#5 /home/noorando/public_html/wp-settings.php(106): require_wp_db()
+#6 /home/noorando/public_html/wp-config.php(89): require_once('/home/noorando/...')
+#7 /home/noorando/public_html/wp-load.php(37): require_once('/home/noorando/...')
+#8 /home/noorando/public_html/wp-admin/admin.php(31): require_once('/home/noorando/...')
+#9 /home/noorando/public_html/wp-admin/index.php(10): require_once('/home/noorando/...')
+#10 {main}
+  thrown in /home/noorando/public_html/wp-includes/class-wp-locale.php on line 231
+[22-Oct-2018 09:23:41 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.sgcpanel.com' did not match expected CN=`localhost' in /home/noorando/public_html/wp-includes/class-smtp.php on line 368
+[22-Oct-2018 09:25:49 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.sgcpanel.com' did not match expected CN=`localhost' in /home/noorando/public_html/wp-includes/class-smtp.php on line 368
+[22-Oct-2018 09:28:38 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.sgcpanel.com' did not match expected CN=`localhost' in /home/noorando/public_html/wp-includes/class-smtp.php on line 368
+[22-Oct-2018 09:59:39 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.sgcpanel.com' did not match expected CN=`localhost' in /home/noorando/public_html/wp-includes/class-smtp.php on line 368
+[22-Oct-2018 11:05:23 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.sgcpanel.com' did not match expected CN=`mail.noorando.com' in /home/noorando/public_html/wp-includes/class-smtp.php on line 368
+[22-Oct-2018 11:11:56 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.sgcpanel.com' did not match expected CN=`mail.noorando.com' in /home/noorando/public_html/wp-includes/class-smtp.php on line 368
+[22-Oct-2018 11:12:44 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.sgcpanel.com' did not match expected CN=`mail.noorando.com' in /home/noorando/public_html/wp-includes/class-smtp.php on line 368
+[22-Oct-2018 11:16:01 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`*.sgcpanel.com' did not match expected CN=`mail.noorando.com' in /home/noorando/public_html/wp-includes/class-smtp.php on line 368
+[01-Nov-2018 14:29:00 UTC] PHP Fatal error:  Cannot redeclare wpb_new_gravatar() (previously declared in /home/noorando/public_html/wp-content/themes/freelanceengine/functions.php:1956) in /home/noorando/public_html/wp-content/plugins/fre_private_message/functions.php on line 504
+[01-Nov-2018 14:29:02 UTC] PHP Fatal error:  Cannot redeclare wpb_new_gravatar() (previously declared in /home/noorando/public_html/wp-content/themes/freelanceengine/functions.php:1956) in /home/noorando/public_html/wp-content/plugins/fre_private_message/functions.php on line 504
+[01-Nov-2018 14:29:14 UTC] PHP Fatal error:  Cannot redeclare wpb_new_gravatar() (previously declared in /home/noorando/public_html/wp-content/themes/freelanceengine/functions.php:1956) in /home/noorando/public_html/wp-content/plugins/fre_private_message/functions.php on line 504
+[01-Nov-2018 14:29:26 UTC] PHP Fatal error:  Cannot redeclare wpb_new_gravatar() (previously declared in /home/noorando/public_html/wp-content/themes/freelanceengine/functions.php:1956) in /home/noorando/public_html/wp-content/plugins/fre_private_message/functions.php on line 504
+[01-Nov-2018 14:29:44 UTC] PHP Fatal error:  Cannot redeclare wpb_new_gravatar() (previously declared in /home/noorando/public_html/wp-content/themes/freelanceengine/functions.php:1956) in /home/noorando/public_html/wp-content/plugins/fre_private_message/functions.php on line 504
+[01-Nov-2018 14:29:57 UTC] PHP Fatal error:  Cannot redeclare wpb_new_gravatar() (previously declared in /home/noorando/public_html/wp-content/themes/freelanceengine/functions.php:1956) in /home/noorando/public_html/wp-content/plugins/fre_private_message/functions.php on line 504
+[01-Nov-2018 14:30:19 UTC] PHP Fatal error:  Cannot redeclare wpb_new_gravatar() (previously declared in /home/noorando/public_html/wp-content/themes/freelanceengine/functions.php:1956) in /home/noorando/public_html/wp-content/plugins/fre_private_message/functions.php on line 504
+[01-Nov-2018 14:30:35 UTC] PHP Fatal error:  Cannot redeclare wpb_new_gravatar() (previously declared in /home/noorando/public_html/wp-content/themes/freelanceengine/functions.php:1956) in /home/noorando/public_html/wp-content/plugins/fre_private_message/functions.php on line 504
+[05-Nov-2018 09:46:22 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wpb_new_gravatar' not found or invalid function name in /home/noorando/public_html/wp-includes/class-wp-hook.php on line 286
+[05-Nov-2018 09:46:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/noorando/public_html/wp-admin/options-discussion.php on line 261
+[05-Nov-2018 09:47:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'wpb_new_gravatar' not found or invalid function name in /home/noorando/public_html/wp-includes/class-wp-hook.php on line 286
+[05-Nov-2018 09:47:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/noorando/public_html/wp-admin/options-discussion.php on line 261

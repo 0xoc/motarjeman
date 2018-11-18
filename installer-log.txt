@@ -1,0 +1,30 @@
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* VERSION: 1.2.34
+* STEP-1 START @ 12:33:47
+* NOTICE: Do NOT post this data to public sites or forums
+********************************************************************************
+PHP VERSION:	7.1.21 | SAPI: cgi-fcgi
+PHP TIME LIMIT:	[0] time limit restriction disabled
+PHP MEMORY:	2048M | SUHOSIN: disabled
+SERVER:		Apache
+DOC ROOT:	/home/noorando/public_html
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	https://noorando.com/installer.php
+SAFE MODE :	0
+--------------------------------------
+ARCHIVE EXTRACTION
+--------------------------------------
+NAME:	
+SIZE:	0B
+ZIP:	Enabled (ZipArchive Support)
+
+** PACKAGE EXTRACTION IS IN MANUAL MODE ** 
+
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.180924003347.orig
+- Reset of .htaccess/web.config files
+
+STEP-1 COMPLETE @ 12:33:47 - RUNTIME: 0.0004 sec.
