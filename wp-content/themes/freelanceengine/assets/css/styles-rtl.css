@@ -77,7 +77,9 @@ input[type="number"]{
 }
 
 .dsabtep:hover{background-color: #176aa2;}
-
+.just {
+    color: red;
+}
 .asabtep{
     color: #fff !important; 
     border-radius:18px; 
@@ -393,4 +395,5 @@ input[type="number"]{
         padding: 16px 9% 37px 9%;
     }
     
-}                                               /*** in phone  mene77 ***/
+}  /*** in phone  mene77 ***/
+

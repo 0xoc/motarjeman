@@ -38,6 +38,7 @@ if ( empty($withcomments) && !is_single() ) {
 	#page { background: url("<?php bloginfo('stylesheet_directory'); ?>/images/kubrickbgwide.jpg") repeat-y top; border: none; }
 <?php } ?>
 
+
 </style>
 <?php } ?>
 
