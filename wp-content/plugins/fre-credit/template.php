@@ -128,14 +128,14 @@ if( !function_exists('fre_credit_add_profile_tab_content') ){
 	    $list_credit_pending = get_list_credit_pending($user_ID);
         ?>
         <div class="fre-page-wrapper tabs-credits" id="credits">
-            <div class="fre-page-title">
-                <div class="container">
-                    <h2><?php _e('My Credit' , ET_DOMAIN) ?></h2>
-                </div>
-            </div>
+<!--            <div class="fre-page-title">-->
+<!--                <div class="container">-->
+<!--                    <h2>--><?php //_e('My Credit' , ET_DOMAIN) ?><!--</h2>-->
+<!--                </div>-->
+<!--            </div>-->
 
             <div class="fre-page-section">
-                <div class="container">
+                <div class="containers">
                     <div class="fre-credit-wrap">
                         <ul class="fre-tabs">
                             <li class="active"><a data-toggle="tab" href="#fre-credit-balance"><?php _e('Balance',ET_DOMAIN) ?></a></li>
