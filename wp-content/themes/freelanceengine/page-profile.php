@@ -82,14 +82,14 @@ $currency = ae_get_option( 'currency', array(
 
 
 <div class="fre-page-wrapper list-profile-wrapper">
-    <div class="fre-page-title">
-        <div class="container">
-            <h2><?php _e( 'My Profile', ET_DOMAIN ) ?></h2>
-        </div>
-    </div>
+<!--    <div class="fre-page-title">-->
+<!--        <div class="container">-->
+<!--            <h2>--><?php //_e( 'My Profile', ET_DOMAIN ) ?><!--</h2>-->
+<!--        </div>-->
+<!--    </div>-->
 
     <div class="fre-page-section">
-        <div class="container">
+        <div class="containers">
             <div class="profile-<?php echo $role_template; ?>-wrap">
                 <?php
                 //fa_v1.8.6.2
@@ -494,4 +494,4 @@ $currency = ae_get_option( 'currency', array(
 <!-- END / CURRENT SKILLS -->
 
 <?php
-get_footer();
+//get_footer();
